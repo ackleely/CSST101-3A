@@ -2,10 +2,6 @@
 """3A-ORELLANO-MP2.ipynb
 # **Machine Problem No.2: Implementing a Logic-Based Model in Python**
 
-***Objective:*** Implement propositional and predicate logic in Python to understand the fundamental
-operations of logic-based representation and its application in AI.
-Task Instructions:
-
 ## **1. Propositional Logic Operations:**
 """
 
